@@ -1,0 +1,12 @@
+{
+  "strict": true,
+  "globalstrict": true,
+  "esversion": 6,
+  "globals": {
+    "require": true,
+    "__dirname": true,
+    "module": true,
+    "string": true,
+    "console": true
+  }
+}
